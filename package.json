@@ -1,0 +1,30 @@
+{
+  "name": "react-groupchat",
+  "version": "1.0.0",
+  "description": "React group chat application",
+  "main": "app-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankushkawanpure/react-groupchat.git"
+  },
+  "author": "Ankush Kawanpure",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankushkawanpure/react-groupchat/issues"
+  },
+  "homepage": "https://github.com/ankushkawanpure/react-groupchat#readme",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "webpack": "^1.13.1"
+  }
+}
