@@ -8,4 +8,6 @@ Install the dependencies
 
 Start using the bilerplate with react and express with es6 
   
-  
+##To run the project
+    webpack
+    node app-server.js
